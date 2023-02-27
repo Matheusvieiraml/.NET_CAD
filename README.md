@@ -10,7 +10,7 @@ Run the NETLOAD command in AutoCAD and select the DLL
 NETLOAD
 
 # select DLL
-.NET_CAD/bin/x64/Release/ProjetosHelloWorld.dll
+/bin/x64/Release/ProjetosHelloWorld.dll
 ```
 
 ## Usage
