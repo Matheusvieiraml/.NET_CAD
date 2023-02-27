@@ -1,0 +1,10 @@
+E:\Dev\testecad\ProjetosHelloWorld\ProjetosHelloWorld\bin\x64\Release\ProjetosHelloWorld.dll
+E:\Dev\testecad\ProjetosHelloWorld\ProjetosHelloWorld\bin\x64\Release\ProjetosHelloWorld.pdb
+E:\Dev\testecad\ProjetosHelloWorld\ProjetosHelloWorld\bin\x64\Release\ProjetosHelloWorld.xml
+E:\Dev\testecad\ProjetosHelloWorld\ProjetosHelloWorld\obj\x64\Release\ProjetosHelloWorld.vbproj.AssemblyReference.cache
+E:\Dev\testecad\ProjetosHelloWorld\ProjetosHelloWorld\obj\x64\Release\ProjetosHelloWorld.Resources.resources
+E:\Dev\testecad\ProjetosHelloWorld\ProjetosHelloWorld\obj\x64\Release\ProjetosHelloWorld.vbproj.GenerateResource.cache
+E:\Dev\testecad\ProjetosHelloWorld\ProjetosHelloWorld\obj\x64\Release\ProjetosHelloWorld.vbproj.CoreCompileInputs.cache
+E:\Dev\testecad\ProjetosHelloWorld\ProjetosHelloWorld\obj\x64\Release\ProjetosHelloWorld.dll
+E:\Dev\testecad\ProjetosHelloWorld\ProjetosHelloWorld\obj\x64\Release\ProjetosHelloWorld.xml
+E:\Dev\testecad\ProjetosHelloWorld\ProjetosHelloWorld\obj\x64\Release\ProjetosHelloWorld.pdb
